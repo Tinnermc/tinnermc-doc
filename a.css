@@ -1,0 +1,4 @@
+q {
+    transition: all 1s ease-in-out;
+    text-underline-position: none;
+}
