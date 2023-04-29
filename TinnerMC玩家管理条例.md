@@ -1,4 +1,4 @@
-# TinnerMC 玩家管理条例 (必看)
+# TinnerMC 玩家管理条例 (已废弃)
 > 如果您是初次来到服务器，请您首先阅读《TinnerMC 玩家管理条例》
 
 <a href="https://cd.tinnermc.fun/s/NQFX" style="text-underline-offset:none!important;">管理条例PDF下载<a/>

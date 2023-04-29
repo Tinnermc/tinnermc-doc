@@ -1,7 +1,7 @@
 ![logo](./img/qwq.svg)
 
 
-# **Tinner MC** <small>beta</small>
+# **Tinner MC**
 
 > 一个 开放 包容 的MC服务器
 
