@@ -1,10 +1,8 @@
-# 欢迎来到 `Tinner MC` 服务器
+# 📃TinnerMC Wiki📃
+欢迎访问 TinnerMC Wiki，在这里你可以了解到大多数关于 TinnerMC 的信息，例如 TinnerMC 的管理机制，行政区规划等等。
 
-> Tinner MC 是一个 开放 包容 的MC服务器<br/>
-> 地图种子：Seed: [4769825610127591975]<br/>
-> 验证方式：离线验证<br/>
-> 玩家数量上限：20<br/>
-> 服务器配置：8c16g 物理机 + DDoS 防护<br/>
+希望你能在这里了解 TinnerMC，快速融入到 TinnerMC。
 
-## 服务器2023年全体合照
-<img src="./img/wwwwwww.png" style="border-radius:10px;"><img/>
+## 🌟推荐内容🌟
+[服务器基本信息](./README.md)
+[首页](./README.md)
