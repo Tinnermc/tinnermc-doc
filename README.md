@@ -4,5 +4,5 @@
 希望你能在这里了解 TinnerMC，快速融入到 TinnerMC。
 
 ## 🌟推荐内容🌟
-[服务器基本信息](./README.md)
-[首页](./README.md)
+[服务器基本信息](./服务器基本信息.md)
+[官网](https://tinnermc.com)

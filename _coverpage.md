@@ -1,10 +1,13 @@
-![logo](./img/qwq.svg)
+<!-- ![logo](./img/TinnerMC.svg) -->
+<img src="./img/TinnerMC.svg" alt="logo" width="1000px"/>
 
 
 # **Tinner MC**
 
-> 一个 开放 包容 的MC服务器
+> 一个高度民主的 Minecraft 服务器
 
 
 [官网](https://tinnermc.fun)
-[开始阅读WIKI](#欢迎来到-tinner-mc-服务器)
+[开始阅读WIKI](#📃tinnermc-wiki📃)
+
+![color](#fff)
